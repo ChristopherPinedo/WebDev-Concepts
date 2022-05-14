@@ -17,6 +17,7 @@
 
 ## Javascript
 
+* [JS: Concepts](javascript/js-concepts.md)
 * [JS: Fundaments](javascript/js-fundaments/README.md)
   * [Asincronismo](javascript/js-fundaments/asincronismo/README.md)
     * [Callback](javascript/js-fundaments/asincronismo/callback.md)
