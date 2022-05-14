@@ -63,6 +63,8 @@
 * [JS: Frameworks](javascript/js-frameworks/README.md)
   * [Gatsby.js](javascript/js-frameworks/gatsby.js.md)
   * [Next.js](javascript/js-frameworks/next.js.md)
+* [JS: TypeScript](javascript/js-typescript/README.md)
+  * [JS vs TS](javascript/js-typescript/js-vs-ts.md)
 
 ## API
 
