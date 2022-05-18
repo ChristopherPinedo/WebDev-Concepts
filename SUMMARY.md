@@ -19,6 +19,9 @@
 
 * [JS: Concepts](javascript/js-concepts.md)
 * [JS: Fundaments](javascript/js-fundaments/README.md)
+  * [DOM](javascript/js-fundaments/dom/README.md)
+    * [NodeList y Arrays](javascript/js-fundaments/dom/nodelist-y-arrays.md)
+    * [Eventos](javascript/js-fundaments/dom/eventos.md)
   * [Asincronismo](javascript/js-fundaments/asincronismo/README.md)
     * [Callback](javascript/js-fundaments/asincronismo/callback.md)
     * [Promises](javascript/js-fundaments/asincronismo/promises.md)
